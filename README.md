@@ -1,6 +1,6 @@
 ### 👨🏻‍💻 &nbsp;Hakkımda
 
-✍️ &nbsp;İstanbul, Silivri'de yaşıyorum. 17 yaşındayım ve yazılım ile uğraşıyorum.
+✍️ &nbsp;İstanbul, Silivri'de yaşıyorum. 18 yaşındayım ve yazılım ile uğraşıyorum.
 
 <img src="pepe.gif" align="right" width="400px" height="200px"/>
 
