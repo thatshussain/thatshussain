@@ -2,8 +2,6 @@
 
 ✍️ &nbsp;İstanbul, Silivri'de yaşıyorum. 18 yaşındayım ve yazılım ile uğraşıyorum.
 
-<img src="pepe.gif" align="right" width="400px" height="200px"/>
-
 ### 🛠 &nbsp;İlgi Alanlarım
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
