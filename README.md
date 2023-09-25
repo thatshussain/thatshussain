@@ -11,6 +11,5 @@
 <p align="center">
 <a href="mailto:quecyyy@gmail.com"><img src="https://img.shields.io/badge/-quecyyy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ristoquecy"><img src="https://img.shields.io/badge/-@ristoquecy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/thatsquecy">![](https://komarev.com/ghpvc/?username=thatsquecy)</a>
 </p>
-
-<center>![](https://komarev.com/ghpvc/?username=thatsquecy)</center>
