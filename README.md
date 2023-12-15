@@ -1,5 +1,5 @@
 <p align="center">
-  ![İstatistikler.](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+  <img src="elsallama.gif">
 </p>
 <hr>
 <p align="center">
